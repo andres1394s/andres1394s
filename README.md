@@ -1,5 +1,5 @@
 Hello!, Welcome to my repository, I'm andres1394s im a advanced database developer in a bank.
-Actually im learning (Remembering), developing some systems app's using multiples languajes (PHP, Javascript, Python. Etc)
+right now, im learning (Remembering), developing some systems app's using multiples languajes (PHP, Javascript, Python. Etc)
 
 Let's Begin :)
 See ya
